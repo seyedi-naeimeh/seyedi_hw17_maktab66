@@ -1,0 +1,22 @@
+ul{
+  list-style: none;
+}
+.container{
+  display: flex ;
+  
+}
+
+.listContainer{
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  background-color: rgb(247, 134, 149);
+}
+
+.allItems{
+  width: 50%;
+  background-color: rgb(171, 234, 253);
+}
+h1{
+  text-align: center;
+}
